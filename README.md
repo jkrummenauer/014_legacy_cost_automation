@@ -67,7 +67,9 @@ This project was the foundation for more advanced solutions involving:
 - Automated cost analysis systems
 - Cost reduction and cost avoidance analysis based on high quality processed data
 
-## Note
+## Notes
+
+This project uses anonymized data and simplified logic for demonstration purposes.
 
 This repository is kept as a legacy reference, demonstrating a continuous pursuit of new skills and solutions through a problem-solving mindset since the beginning of my journey as a developer 6 years ago.
 
