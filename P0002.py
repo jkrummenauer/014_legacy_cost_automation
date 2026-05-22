@@ -753,6 +753,9 @@ for i in range(0, qtd_semana_faltando):
 print('\n -- 02.18 - busca volumes de "budget" para inclusao no itensfoj gerado ----------------------------')
 
 
+import P0041
+
+
 # -------------------------------------------------------------------------------------------------
 # criar itensfoj_semana_atual
 print('\n -- 02.19 - criar itenfoj_semana_atual ------------------------------------------------------------')
