@@ -1,4 +1,6 @@
-# Legacy Project – Automated Weekly Cost Reports (2020)
+# Automated Weekly Cost Reports - Legacy Project (2020)
+
+🌐 Language: [Português](README.pt-BR.md) | English
 
 ## Overview
 
