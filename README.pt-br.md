@@ -2,11 +2,6 @@
 
 🌐 Idioma: Português | [English](README.md)
 
-> Projeto legado de portfólio, originalmente desenvolvido em 2020.  
-> Documentação em português.
-
----
-
 ## Visão Geral
 
 Este foi o primeiro projeto de automação que desenvolvi utilizando Python, originalmente em 2020.
