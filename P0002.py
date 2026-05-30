@@ -787,6 +787,4 @@ if comando == 's':
     itensfoj_semana_atual_origem = f'{caminho_ano_itensfoj}\\{ano1}\\{ultimo_itensfoj}'
     itensfoj_semana_atual_destino = f'{caminho_ano_itensfoj}\\Itensfoj_sem_atual.xlsx'
     copyfile(itensfoj_semana_atual_origem, itensfoj_semana_atual_destino)
-else:
-    pass
 
